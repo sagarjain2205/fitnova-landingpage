@@ -5,7 +5,7 @@
 ### Real-time movement awareness and AI workout coaching, built to make every rep more intentional.
 
 [![Live App](https://img.shields.io/badge/Live%20App-Open%20FitNova-b6ff4a?style=for-the-badge&logo=streamlit&logoColor=10140b)](https://fitnova-sagarjain.streamlit.app/)
-[![Landing Page Source](https://img.shields.io/badge/Landing%20Page-Source%20Code-111713?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/sagarjain2205/fitnova-landingpage)
+[![Landing Page](https://img.shields.io/badge/Landing%20Page-Visit%20FitNova-111713?style=for-the-badge&logo=vercel&logoColor=white)](https://fitnova-landingpage.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/sagarjain2205/fitnova-landingpage)
 
 ![HTML5](https://img.shields.io/badge/HTML5-Markup-e34f26?style=flat&logo=html5&logoColor=white)
