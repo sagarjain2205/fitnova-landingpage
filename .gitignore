@@ -1,0 +1,25 @@
+# Local secrets and environment files
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+secrets.toml
+
+# Local databases, generated data, and logs
+*.db
+*.sqlite
+*.sqlite3
+*.log
+__pycache__/
+
+# Editor, operating system, and deployment metadata
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.vercel/
+
+# Local dependency/build folders
+node_modules/
+dist/
+build/
